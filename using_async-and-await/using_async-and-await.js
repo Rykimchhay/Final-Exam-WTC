@@ -3,7 +3,7 @@ function createCounter() {
 
   return function () {
     
-    console.log("Student Name: Yun Winner");
+    console.log("Student Name: Ry Kimchhay");
 
     count++;
     return count;
